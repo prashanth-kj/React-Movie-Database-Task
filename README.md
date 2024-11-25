@@ -11,6 +11,7 @@ React Movie Database 🎥
 A React-based web application to search for movies, view detailed information, and manage favorites using the OMDB API.
 
 Features 🌟
+
 Homepage:
 
 Search for movies using the OMDB API.
@@ -32,10 +33,11 @@ Fully responsive layout for mobile, tablet, and desktop screens.
 Technologies Used 💻
 Frontend:
 
-React.js (with React Hooks)
-React Router DOM for navigation
-Axios for API calls
-Bootstrap 5 for styling
+React.js (with React Hooks),
+React Router DOM for navigation,
+Axios for API calls,
+Bootstrap 5 for styling,
+
 API:
 
 OMDB API
