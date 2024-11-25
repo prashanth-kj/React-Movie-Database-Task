@@ -1,0 +1,10 @@
+.card-hover {
+    transition: all 0.4s ease; /* Smooth transition */
+  }
+  
+  .card-hover:hover {
+    transform: scale(1.05); /* Moves the card up slightly */
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3); /* Adds depth */
+    background-color: #f8f9fa; /* Optional: light background */
+  }
+  
